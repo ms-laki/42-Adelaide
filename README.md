@@ -1,6 +1,7 @@
 ### Passing Grade
 
-100% 
+100%, must pass all mandatory part. There is also a bonus part, which I did not attempt.
+All the functions, header and make file passed. I also used a tester.
 
 ### **Description**
 
