@@ -1,18 +1,3 @@
-### **Description**
+# My libft Results
 
-This project is your very first project as a student at 42. You are creating your own library of functions. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
-
-### **Objectives**
-
-Unix logic
-
-### **Skills**
-
-Rigor
-
-Imperative programming
-
-Algorithms & AI
-
-# My Results
-100%
+<img width="923" alt="Screen Shot 2022-10-28 at 8 48 21 PM" src="https://user-images.githubusercontent.com/87255552/198564440-08fe0ff3-acd5-4354-b094-9a3ea2d6fcc5.png">
